@@ -4,7 +4,7 @@
 
 1. Installer NODEJS
 2. npm i *ou npm i dotenv + npm i puppeteer*
-3. Créer un fichier **.env** et copier coller le contenu de env.sample. Ce fichier sert juste à savoir ce que le fichier **.env** doit recevoir. Mettez vos vrais information à l'intérieur. 
+3. Créer un fichier **.env** et copier coller le contenu de env.sample. Ce fichier sert juste à savoir ce que le fichier **.env** attend de recevoir. Mettez vos vrais informations à l'intérieur. 
 
 ***ATTENTION A NE PAS METTRE UPLOAD LE FICHIER .env SUR GITHUB !*** Laissez bien le .env dans le gitignore.
 

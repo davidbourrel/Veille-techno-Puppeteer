@@ -16,9 +16,7 @@ Une fois votre script fini, il faudra l'exécuter avec la commande :
 
 Exemple : 
 
--node test
--node phone
--node wcs
+- node phone
 
 ## Documentation 
 
